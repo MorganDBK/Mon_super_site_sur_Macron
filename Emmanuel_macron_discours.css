@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Lora-Regular';
+	src: url('Lora-Regular.ttf') format('truetype');
+}
+
+body{
+	font-family: 'Lora-Regular';
+}
+
+h1, .Macron {
+	color: red;
+	text-align: center;
+}
+
+h2 {
+	color: blue;
+}
+
+.chapo {
+	text-align: center;
+  font-size: 18px;
+}
+
+.legende {
+	text-align: center;
+}
+.citation1 {
+	font-size: 20px;
+	color: blueviolet;
+}
+
+.P2 {
+	color: blue;
+	font-size: 25px;
+	text-align: center;
+}
